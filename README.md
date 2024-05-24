@@ -1,2 +1,2 @@
 # JavascriptDrum
-Javascript로 제작한 Drum kit
+Javascript로 제작한  JMS Drum kit
